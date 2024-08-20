@@ -15,8 +15,8 @@ Online fraud continues to rise as more people conduct transactions and share inf
 ## Project Highlights
 
 - Uses a customized dataset that contains FAQs regarding Online Fraud Detection and Prevention
-- We will build an LLM based question and answer system that can reduce the workload of their human staff.
-- Students should be able to use this system to ask questions directly and get answers within seconds
+- We will build an LLM(Google Palm) based chatbot system that can answer user questions based on the responses within the CSV file 
+- Users should be able to use this system to ask questions directly and get answers within seconds
 
 ## You will learn following,
   - Langchain + Google Palm: LLM based Q&A
