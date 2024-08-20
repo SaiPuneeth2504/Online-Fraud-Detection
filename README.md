@@ -31,7 +31,6 @@ Online fraud continues to rise as more people conduct transactions and share inf
 ```bash
   git clone https://github.com/SaiPuneeth2504/Online-Fraud-Detection
 ```
-
 2. Install the required dependencies using pip:
 
 ```bash
