@@ -63,15 +63,15 @@ streamlit run main.py
 - Now you are ready to ask questions. Type your question in Question box and hit Enter
 
 ## Sample Questions
-  - Do you guys provide internship and also do you offer EMI payments?
-  - Do you have javascript course?
-  - Should I learn power bi or tableau?
-  - I've a MAC computer. Can I use powerbi on it?
-  - I don't see power pivot. how can I enable it?
+  - What is deepfake fraud and how can I protect against it?
+  - What is catfishing and how can I avoid falling victim to it?
+  - How can I protect my personal information on social media?
+  - IWhat is pharming and how does it differ from phishing?
+  - What is a data breach and what should I do if I'm affected?
 
 ## Project Structure
 
 - main.py: The main Streamlit application script.
-- langchain_helper.py: This has all the langchain code
+- FraudDetection.py: This has all the langchain code
 - requirements.txt: A list of required Python packages for the project.
 - .env: Configuration file for storing your Google API key.
