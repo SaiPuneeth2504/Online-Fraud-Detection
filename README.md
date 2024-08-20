@@ -5,7 +5,10 @@
 
 # Online Fraud Helpline: Question and Answer System Based on Google Palm LLM and Langchain for Online Fraud Detection and Prevention 
 
-This is an end to end LLM project based on Google Palm and Langchain. We are building a Q&A system for an e-learning company called codebasics (website: codebasics.io). Codebasics sells data related courses and bootcamps. They have thousands of learners who uses discord server or email to ask questions. This system will provide a streamlit based user interface for students where they can ask questions and get answers. 
+This is an end to end LLM project powered by Google's PaLM (Pathways Language Model) and Langchain. We are building a Chatbot system trained on a custom FAQ dataset focused on Online Fraud Detection and Prevention. Codebasics sells data related courses and bootcamps. They have thousands of learners who uses discord server or email to ask questions. This system will provide a streamlit based user interface for users where they can ask questions and get answers which helps them to identify, understand, and prevent various types of online fraud by providing accurate and quick responses to common queries.
+
+
+
 
 ![](codebasics_q_and_a.png)
 
