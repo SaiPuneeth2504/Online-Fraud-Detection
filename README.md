@@ -5,7 +5,7 @@
 
 # Online Fraud Helpline: Question and Answer System Based on Google Palm LLM and Langchain for Online Fraud Detection and Prevention 
 
-This is an end to end LLM project powered by Google's PaLM (Pathways Language Model) and Langchain. We are building a Chatbot system trained on a custom FAQ dataset focused on Online Fraud Detection and Prevention. Codebasics sells data related courses and bootcamps. They have thousands of learners who uses discord server or email to ask questions. This system will provide a streamlit based user interface for users where they can ask questions and get answers which helps them to identify, understand, and prevent various types of online fraud by providing accurate and quick responses to common queries.
+This is an end to end LLM project powered by Google's PaLM (Pathways Language Model) and Langchain. We are building a Chatbot system trained on a custom FAQ dataset focused on Online Fraud Detection and Prevention. This system will provide a streamlit based user interface for users where they can ask questions and get answers which helps them to identify, understand, and prevent various types of online fraud by providing accurate and quick responses to common queries.
 
 ## Why Online Fraud Detection Matters
 Online fraud continues to rise as more people conduct transactions and share information digitally. Common types of online fraud include phishing, identity theft, online scams, and unauthorized transactions. Educating individuals about these threats is crucial in helping them avoid falling victim to such activities.
