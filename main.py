@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain_helper import get_qa_chain, create_vector_db
+from FraudDetection.py import get_qa_chain, create_vector_db
 
 st.title("Online Fraud Helpline 🌱")
 btn = st.button("Create Knowledgebase")
